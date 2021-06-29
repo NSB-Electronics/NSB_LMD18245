@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For LMD_Stepper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LMD_Stepper	KEYWORD1	LMD_Stepper
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+step	KEYWORD2
+setSpeed	KEYWORD2
+setDriveType	KEYWORD2
+setBrake	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+direction	KEYWORD2
+speed	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
